@@ -5,6 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/hardhat-upgrades": "^3.5.0",
     "hardhat": "^2.22.13"
   },
   "dependencies": {
